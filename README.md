@@ -17,7 +17,7 @@ sobre cualquier CSV de entregas y predice si una entrega será **Exitosa**,
 ## 🚀 Instalación
 
 ```bash
-git clone https://github.com/TU_USUARIO/clasificador-entregas.git
+git clone https://github.com/J0H4N-B/clasificador-entregas.git
 cd clasificador-entregas
 
 python -m venv venv
