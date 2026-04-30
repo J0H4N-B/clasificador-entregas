@@ -1,0 +1,8 @@
+flask
+pandas
+werkzeug
+python-dotenv
+scikit-learn
+matplotlib
+seaborn
+joblib
